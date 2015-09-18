@@ -1,4 +1,1 @@
-#my git ignores
-target
-target/*
-
+/target/
